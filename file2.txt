@@ -1,3 +1,7 @@
 before stash
+<<<<<<< Updated upstream
 after stash
+=======
+new text
+>>>>>>> Stashed changes
 
