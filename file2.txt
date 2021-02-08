@@ -1,2 +1,3 @@
 before stash
+after stash
 
